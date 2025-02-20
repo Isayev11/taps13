@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    text-align: left;
+    padding: 100px;
+    width: 100vw;
+    color: white;
+}
+image{
+    background-image: url(./Frame\ 2216\ 1.svg);
+    width: 90px;
+    height: 95px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px auto;
+    position: relative;
+}
+body{
+    background-image: url(./Frame\ 2216\ 1.svg);
+    background-size: cover;
+}
